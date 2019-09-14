@@ -11,4 +11,3 @@ var name1;
 
 console.log(name1); // prints 'undefined'
 }
-run()
